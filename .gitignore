@@ -1,0 +1,11 @@
+.idea
+*.gv
+*.png
+!vis*.png
+*.pyc
+*.pkl
+# generated compatibility files
+[0-9]**/
+char_body_overhaul
+# working files
+**/*Breastplate_Stretcher*
